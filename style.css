@@ -13,17 +13,17 @@ body {
 .img{display:flex;
   flex-direction:column;
   justify-content:center;
-margin:1px;}
+}
   
 .im{display:flex;
   flex-direction:column;
   justify-content:center;
-margin:1px;}
+}
 
 .imge{display:flex;
   flex-direction:column;
   justify-content:center;
-margin:1px;}
+}
 
 .text{
   display: flex;
